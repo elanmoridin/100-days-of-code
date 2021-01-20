@@ -1,30 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: January 18th, 2021
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Worked with puppet a bit to play around with how it works
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts**: It's interesting and I'm excited to do a bit more with it in the future to explore around. I built a puppet instance in
+my Linux (Ubuntu) box using Virtual Box and Vagrant.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Puppet](https://puppet.com/) [Virtual Box](https://www.virtualbox.org/) [Vagrant](https://www.vagrantup.com/)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 19th, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I setup some docker containers for a few different items.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Using Docker created and expanded upon some setup for a VPN, Radarr, Sonaar, and Plex
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [VPN Use](https://github.com/haugene/docker-transmission-openvpn)
+2. [Radarr](https://github.com/Radarr/Radarr)
+3. [Sonarr](https://github.com/Sonarr/Sonarr)
+4. [Plex](https://www.plex.tv/blog/introducing-the-plex-media-player/)
