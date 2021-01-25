@@ -33,3 +33,41 @@ in a while. I also fixed an error with my wsl subsystem on my Windows computer c
 **Link(s) to work**
 1. [FS](https://nodejs.org/dist/latest/docs/api/fs.html)
 2. [Node.js v15.6.0 Docs](https://nodejs.org/dist/latest/docs/api/)
+
+
+### Day 3: January 21th, 2021
+
+**Today's Progress**: Today I decided to take dive into hooks in React. I played around a bit with useEffect and useState.
+
+**Thoughts** React hooks are a very useful tool to use. They make navigating and raising states a much easier affair
+**Link(s) to work**
+1. [Hook Info](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+2. [More Info](https://reactjs.org/docs/hooks-intro.html)
+
+### Day 4: January 22th, 2021
+
+**Today's Progress**: Today was a change of pace away from technical coding and covering more of interviews and how to handle them. I did a hackerrank challenge and read up on a few different strategies from around YouTube and a few books.
+
+**Thoughts** Interviews are draining
+**Link(s) to work**
+1. [Interview Prep](https://interviews.school/preparation)
+2. [Question Prep](https://www.pathrise.com/guides/45-behavioral-interview-questions/)
+3. [Question Prep](https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/)
+
+
+### Day 5: January 23th, 2021
+
+**Today's Progress**: Today I went through a link of Javascript Interview questions to see if I could answer them all and read up on all the ones I couldn't come up with off the top of my head.
+
+**Thoughts** A nice catch up on things
+**Link(s) to work**
+1. [JS Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+
+
+### Day 6: January 24th, 2021
+
+**Today's Progress**: Today was trying out a few problems at Code Academy just to stay sharp on a day where I've been much more busy than expected. But it's important to take a little bit of time to at least keep the progress going!
+
+**Thoughts** just a catch up from a busy day
+**Link(s) to work**
+1. [CodeAcademy](https://www.codecademy.com/learn)
